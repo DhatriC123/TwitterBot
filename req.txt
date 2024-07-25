@@ -1,0 +1,9 @@
+crewai_tools
+crewai
+python-decouple
+langchain_openai==0.1.7
+exa_py
+crewai_tools
+tweepy
+python-dotenv
+flask
